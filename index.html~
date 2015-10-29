@@ -89,74 +89,6 @@
             </div>
         </div>
     </header>
-<!-- About Section -->
-    <section id="about">
-        <div class="container">
-            <div class="row">
-                <div class="col-lg-12 text-center">
-                    <h2 class="section-heading">Մեր Մասին</h2>
-                    <h3 class="section-subheading text-muted">«Ինստիգեյթ Սիսթեմս» ՓԲԸ-ն ծրագրավորման ընկերություն է
-                    <p> Ընկերությունը ծառայություններ է մատուցում համակարգչային ծրագրավորման ոլորտում</p>
-		   </h3>
-                </div>
-            </div>
-            <div class="row">
-                <div class="col-lg-12">
-                    <ul class="timeline">
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>2011 Մայիսի 20</h4>
-                                    <h4 class="subheading">Ընկերության հիմնադրումը Ստեփանակերտում</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Արցախում հաջողությամբ գործունեություն է իրականացնում ծրագրային ապահովման մշակմամբ զբաղվող առաջին ընկերությունը` «Ինստիգեյթ Սիսթեմսը»: Հայաստանյան «Ինստիգեյթ» ՓԲԸ-ի բաժնետերերի ժողովը 2011թ  ապրիլի 22-ին որոշեց Արցախում ստեղծել դուստր ընկերություն։ Մայիսի 20-ին դուստր ընկերությունը ստացավ պետական գրանցում` «Ինստիգեյթ Սիսթեմս» անվանումով։</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>2010 Սեպտեմբեր</h4>
-                                    <h4 class="subheading">Ընկերության հիմնադրման պատմությունից</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Մինչ դուստր ընկերության հիմնումը` 2010թ. սեպտեմբերին Ինստիգեյթ ՓԲԸ-ն հայտարարեց իրեն պատկանող Ինստիգեյթ ուսումնական կենտրոնի միջոցով Ստեփանակերտում թրեյնինգ կենտրոն բացելու մասին: Մեկ ամիս անց կենտրոնը սկսեց գործել և շուրջ մեկ տասնյակ արցախցի երիտասարդներ դարձան դրա ուկնդիրը: Արցախի պետական համալսարանի ֆիզիկամաթեմատիկական ֆակուլտետի ուսանողները և շրջանավարտները համակարգչային ծրագրավորման և ինժեներական պրակտիկայի դասընթացներ էին անցնում։Արդեն 2011թ. մայիսին նրանցից յոթը ստացան իրենց ավարտական վկայականները:</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li>
-                            <div class="timeline-image">
-                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
-                            </div>
-                            <div class="timeline-panel">
-                                <div class="timeline-heading">
-                                    <h4>2015</h4>
-                                    <h4 class="subheading">Ընկերության Հաջողությունները</h4>
-                                </div>
-                                <div class="timeline-body">
-                                    <p class="text-muted">Հիմնադրման օրից մինչ այսօր ընկերությունը հասել է մեծ հաջողությունների։ Ընկերության գործարկումից ի վեր ստեղծվել են բազմազան ֆունկցիոնալ հնարավորություննեով, յուրահատուկ դիզայնով վեբ կայքեր պետական և մասնավոր կազմակերպությունների համար, որոնք գործում են տարբեր շուկաներում ու ոլորտներում։  Այս տարիների ընթացքում իրեն դրսևորել է որպես հուսալի գործընկեր արտասահմանյան և տեղական ընկերությունների համար։</p>
-                                </div>
-                            </div>
-                        </li>
-                        <li class="timeline-inverted">
-                            <div class="timeline-image">
-                                <h4>Շնորհակալություն
-                                    <br>մեր պատմությանը
-                                    <br>ծանոթանալու համար !</h4>
-                            </div>
-                        </li>
-                    </ul>
-                </div>
-            </div>
-        </div>
-    </section>
 
     <!-- Services Section -->
     <section id="services">
@@ -169,30 +101,36 @@
             </div>
             <div class="row text-center">
                 <div class="col-md-4">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <img src="img/comp.png" class="fa fa-circle fa-stack-2x text-primary fa-stack-1x fa-inverse"></img>
+                        <i class="fa fa-laptop fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">ՎԵԲ ԾՐԱԳՐԱՎՈՐՈՒՄ</h4>
-			<p class="text-muted">Նոր կայքի ձևավորում և ծրագրավորում: Առկա կայքի ձևավորման փոփոխում: Առկա կայքի վրա ծրագրային փոփոխում կամ ավելացում։ Օգտագործվող տեխնոլոգիաներ՝ HTML 5, CSS 3, JavaScript, jQuery, Ajax, Bootstrap, PHP, MySQL</p>
+			<p class="text-muted">Նոր կայքի ձևավորում և ծրագրավորում: Առկա կայքի ձևավորման փոփոխում: Առկա կայքի վրա ծրագրային փոփոխում կամ ավելացում</p>
+		    <h5 class="service-heading">Օգտագործվող տեխնոլոգիաներ</h5>
+		    	<p>HTML 5, CSS 3, JavaScript, jQuery, Ajax, Bootstrap, PHP, MySQL</p>
 <!--                    	<p class="text-muted">HTML5, JavaScript, AJAX, JQuery, Joomla, Wordpress, Django</p>
                     	<p class="text-muted">Տվյալների բազաներ՝ MySQL, PostgreSQL, SQLite, MongoDB-->
                 </div>
                 <div class="col-md-4">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <img src="img/phone.png" class="fa fa-circle fa-stack-2x text-primary fa-stack-1x fa-inverse"></img>
+                        <i class="fa fa-mobile fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">ՄՈԲԱՅԼ ՀԱՎԵԼՎԱԾՆԵՐ</h4>
-                    	<p class="text-muted"> Մոբայլ հավելվածների ստեղծումն այսօր ամենատարածված ոլորտներից մեկն է: Այն շատ մեծ տարածում գտավ հատկապես IOS և Android համակարգերի շուկան գրավելուց հետո: Օգտագործվող տեխնոլոգիաներ` Android, Windows Mobile միջավայրում՝ SenchaTouch, JqueryMobile, Java</p>
+                    	<p class="text-muted"> Մոբայլ հավելվածների ստեղծումն այսօր ամենատարածված ոլորտներից մեկն է: Այն շատ մեծ տարածում գտավ հատկապես IOS և Android համակարգերի շուկան գրավելուց հետո:</p>
+		    <h5 class="service-heading">Օգտագործվող տեխնոլոգիաներ</h5>
+                        <p>Android, Windows Mobile միջավայրում՝ SenchaTouch, JqueryMobile, Java</p>
                 </div>
                 <div class="col-md-4">
-                    <span class="fa-stack fa-5x">
+                    <span class="fa-stack fa-4x">
                         <i class="fa fa-circle fa-stack-2x text-primary"></i>
-                        <img src="img/bug.png" class="fa fa-circle fa-stack-2x text-primary fa-stack-1x fa-inverse" ></img>
+                        <i class="fa fa-check-circle-o fa-stack-1x fa-inverse"></i>
                     </span>
                     <h4 class="service-heading">ՈՐԱԿԻ ԱՊԱՀՈՎՈՒՄ </h4>
-                    	<p class="text-muted"> Կայքի վեբ ծրագրավորումը ավարտելուց հետո, այն անցնում է մանրակրկիտ թեստավորման: Հայտնաբերված թերությունները վերացվում են անմիջապես: Օգտագործվող տեխնոլոգիաներ` ծառայությունների թեստավորում Agile պրոցեսի կիրառմամբ և ավտոմատացում Robot Framework, Selenium, Python, թեստավորման գործընթացը կառավարող ծրագրեր՝ JIRA, Redmine</p>
+                    	<p class="text-muted"> Կայքի վեբ ծրագրավորումը ավարտելուց հետո, այն անցնում է մանրակրկիտ թեստավորման: Հայտնաբերված թերությունները վերացվում են անմիջապես: 
+		   <h5 class="service-heading">Օգտագործվող տեխնոլոգիաներ</h5>
+			<p>Ծառայությունների թեստավորում Agile պրոցեսի կիրառմամբ և ավտոմատացում Robot Framework, Selenium, Python, թեստավորման գործընթացը կառավարող ծրագրեր՝ JIRA, Redmine</p>
                 </div>
             </div>
         </div>
@@ -291,6 +229,75 @@
                         <h4>Dreams</h4>
                         <p class="text-muted">Website Design</p>
                     </div>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Մեր Մասին</h2>
+                    <h3 class="section-subheading text-muted">«Ինստիգեյթ Սիսթեմս» ՓԲԸ-ն ծրագրավորման ընկերություն է
+                    <p> Ընկերությունը ծառայություններ է մատուցում համակարգչային ծրագրավորման ոլորտում</p>
+		   </h3>
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2011 Մայիսի 20</h4>
+                                    <h4 class="subheading">Ընկերության հիմնադրումը Ստեփանակերտում</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Արցախում հաջողությամբ գործունեություն է իրականացնում ծրագրային ապահովման մշակմամբ զբաղվող առաջին ընկերությունը` «Ինստիգեյթ Սիսթեմսը»: Հայաստանյան «Ինստիգեյթ» ՓԲԸ-ի բաժնետերերի ժողովը 2011թ  ապրիլի 22-ին որոշեց Արցախում ստեղծել դուստր ընկերություն։ Մայիսի 20-ին դուստր ընկերությունը ստացավ պետական գրանցում` «Ինստիգեյթ Սիսթեմս» անվանումով։</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2010 Սեպտեմբեր</h4>
+                                    <h4 class="subheading">Ընկերության հիմնադրման պատմությունից</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Մինչ դուստր ընկերության հիմնումը` 2010թ. սեպտեմբերին Ինստիգեյթ ՓԲԸ-ն հայտարարեց իրեն պատկանող Ինստիգեյթ ուսումնական կենտրոնի միջոցով Ստեփանակերտում թրեյնինգ կենտրոն բացելու մասին: Մեկ ամիս անց կենտրոնը սկսեց գործել և շուրջ մեկ տասնյակ արցախցի երիտասարդներ դարձան դրա ուկնդիրը: Արցախի պետական համալսարանի ֆիզիկամաթեմատիկական ֆակուլտետի ուսանողները և շրջանավարտները համակարգչային ծրագրավորման և ինժեներական պրակտիկայի դասընթացներ էին անցնում։Արդեն 2011թ. մայիսին նրանցից յոթը ստացան իրենց ավարտական վկայականները:</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>2015</h4>
+                                    <h4 class="subheading">Ընկերության Հաջողությունները</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Հիմնադրման օրից մինչ այսօր ընկերությունը հասել է մեծ հաջողությունների։ Ընկերության գործարկումից ի վեր ստեղծվել են բազմազան ֆունկցիոնալ հնարավորություննեով, յուրահատուկ դիզայնով վեբ կայքեր պետական և մասնավոր կազմակերպությունների համար, որոնք գործում են տարբեր շուկաներում ու ոլորտներում։  Այս տարիների ընթացքում իրեն դրսևորել է որպես հուսալի գործընկեր արտասահմանյան և տեղական ընկերությունների համար։</p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>Շնորհակալություն
+                                    <br>մեր պատմությանը
+                                    <br>ծանոթանալու համար !</h4>
+                            </div>
+                        </li>
+                    </ul>
                 </div>
             </div>
         </div>
@@ -516,11 +523,11 @@
         <div class="container">
             <div class="row">
                 <div class="col-md-3 col-sm-6">
-                    <a href="http://ggg.instigatemobile.com" target="_blank">
-                        <img src="img/logos/mobile.png" class="img-responsive img-centered" alt="">
+                    <a href="http://uite.org/" target="_blank">
+                        <img src="img/logos/uite.jpg" class="img-responsive img-centered" alt="">
                     </a>
                 </div>
-<!--                <div class="col-md-3 col-sm-6">
+                <div class="col-md-3 col-sm-6">
                     <a href="http://laflinltd.com/" target="_blank">
                         <img src="img/logos/logo_laflin.gif" class="img-responsive img-centered" alt="">
                     </a>
@@ -536,7 +543,7 @@
                     </a>
                 </div>
             </div>
-        </div>-->
+        </div>
     </aside>
     
     <!-- Contact Section -->

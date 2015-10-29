@@ -595,7 +595,7 @@ section h3.section-subheading {
 
     .timeline>li .timeline-image h4 {
         margin-top: 30px;
-        font-size: 18px;
+        font-size: 13px;
         line-height: 26px;
     }
 
@@ -927,4 +927,31 @@ body {
 
 #team > div > div:nth-child(1) > div {
     margin-bottom: 20px;
+}
+
+#about > div > div:nth-child(2) > div > ul > li:nth-child(1) > div.timeline-panel > div.timeline-body > p,
+#about > div > div:nth-child(2) > div > ul > li:nth-child(2) > div.timeline-panel > div.timeline-body > p,
+#about > div > div:nth-child(2) > div > ul > li:nth-child(3) > div.timeline-panel > div.timeline-body > p,
+#about > div > div:nth-child(2) > div > ul > li:nth-child(4) > div.timeline-panel > div.timeline-body > p {
+    text-align: justify;
+}
+
+.timeline>li .timeline-image h4 {
+    margin-top: 45px;
+    }
+
+#page-top > aside > div > div > div > a > img {
+    margin-left: 410px;
+}
+
+#services > div > div.row.text-center > div:nth-child(1) > span > img,
+#services > div > div.row.text-center > div:nth-child(2) > span > img {
+    width: 85px;
+    margin-left: 28px;
+    margin-top: 25px;
+}
+#services > div > div.row.text-center > div:nth-child(3) > span > img {
+    width: 85px;
+    margin-left: 35px;
+    margin-top: 25px;
 }
