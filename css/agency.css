@@ -743,11 +743,11 @@ ul.social-buttons {
 
 ul.social-buttons li a {
     display: block;
-    width: 40px;
-    height: 40px;
+    width: 30px;
+    height: 30px;
     border-radius: 100%;
-    font-size: 20px;
-    line-height: 40px;
+    font-size: 18px;
+    line-height: 1.5;
     outline: 0;
     color: #fff;
     background-color: #222;
@@ -954,4 +954,48 @@ body {
     width: 85px;
     margin-left: 35px;
     margin-top: 25px;
+}
+.name {
+    float: left;
+    margin-left: 70px;
+}
+
+#team  ul > li {
+    float: left;
+    margin-top: 30px;
+}
+
+#team > div > div {
+    margin-bottom: 20px;
+}
+
+#contact > div > div:nth-child(1) > div > p {
+    text-align: center;
+}
+
+#contact > div > div:nth-child(1) > div > p:nth-child(3) {
+    margin-right: 21%;
+
+}
+
+#contact > div > div:nth-child(1) > div > p:nth-child(4) {
+    margin-right: 10%;
+}
+#about > div > div:nth-child(2) > div > ul > li:nth-child(1) > div.timeline-panel1{
+    padding: 0 100px 20px 20px;
+    float: right;
+    width: 41%;
+    text-align: justify;
+}
+#about > div > div:nth-child(2) > div > ul > li:nth-child(1) > div.timeline-panel > div.timeline-body > p {
+    padding-top: 30px;
+}
+#about > div > div:nth-child(2) > div > ul > li:nth-child(1) > div.timeline-panel1 > div.timeline-body > p {
+    padding-top: 30px;
+}
+#about > div > div:nth-child(2) > div > ul > li:nth-child(1) > div.timeline-panel1 > div.timeline-heading {
+    padding-top: 75px;
+}
+#about > div > div:nth-child(2) > div > ul > li:nth-child(1) > div.timeline-panel > div.timeline-heading {
+    padding-top: 45px;
 }
